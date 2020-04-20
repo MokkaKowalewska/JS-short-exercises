@@ -17,3 +17,5 @@ function displayStudentInfo(student) {
 
 let div = document.querySelector(".div");
 div.textContent = displayStudentInfo(student);
+
+export { student };

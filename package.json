@@ -1,0 +1,26 @@
+{
+  "name": "js-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "webpack": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MokkaKowalewska/JS-short-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MokkaKowalewska/JS-short-exercises/issues"
+  },
+  "homepage": "https://github.com/MokkaKowalewska/JS-short-exercises#readme",
+  "devDependencies": {
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}

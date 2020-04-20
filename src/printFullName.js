@@ -7,9 +7,10 @@ Examples:
 
 import { student } from "./displayStudents.js";
 
-function printFullName(student) {
-  let { first, last } = student;
+function printFullName(obj) {
+  let { first, last } = obj;
+  console.log(first);
   return "Your full name is" + first + last;
 }
 
-console.log(printFullName());
+console.log(printFullName(student));

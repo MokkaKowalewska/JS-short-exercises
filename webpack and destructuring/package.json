@@ -18,7 +18,7 @@
   "homepage": "https://github.com/MokkaKowalewska/JS-short-exercises#readme",
   "devDependencies": {
     "webpack": "^4.42.1",
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "lodash": "^4.17.15"
